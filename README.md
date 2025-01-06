@@ -37,7 +37,8 @@ Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 ## Dashboard
 
 
-![Screenshot 2025-01-06 191249](https://github.com/user-attachments/assets/e9e56730-d589-4430-a7da-9a5a265ce2a4)
+![image](https://github.com/user-attachments/assets/524a4a89-32d5-4e68-9d0b-316ff66b9267)
+
 
 
 ## Project Insight
